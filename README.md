@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME :NAKUL R 
+ #### REGISTER NUMBER :212223240102
+ #### DEPARTMENT :AIML
+ #### YEAR : 2ND YEAR 
 
  
 # Aim:
@@ -82,12 +82,12 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+![iot exp 2 image 1 ](https://github.com/user-attachments/assets/5619b5f9-589c-4f85-b2a3-aff9135c0d13)
 
 
 
 
-
-
+![iot exp 02 image 2](https://github.com/user-attachments/assets/9239f8c7-24e8-44ad-a764-a52720692fa5)
 
 
 
